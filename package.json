@@ -1,0 +1,17 @@
+{
+  "name": "gamer-ia-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Loja digital Gamer IA Store com Pix Mercado Pago e entrega após confirmação",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "express": "^4.21.2"
+  }
+}
