@@ -1,0 +1,18 @@
+GAMER IA STORE — KIT DE PROMPTS PARA CRIADORES
+
+1) Roteiro de Shorts
+Crie um roteiro de 30 segundos sobre [TEMA], com gancho nos primeiros 2 segundos, linguagem simples, 3 cenas e chamada para ação. Não invente fatos.
+
+2) Ideias para vídeos de games
+Sugira 20 ideias originais de vídeos curtos sobre [JOGO], divididas entre dicas, curiosidades, desafios seguros e comparações. Evite promessas falsas.
+
+3) Descrição de produto
+Escreva uma descrição clara para [PRODUTO], destacando benefícios reais, público indicado e limitações. Não invente avaliações.
+
+4) Calendário de conteúdo
+Monte um calendário de 7 dias para [NICHO], com tema, gancho, formato e CTA para cada publicação.
+
+5) Legendas
+Crie 5 legendas curtas para [PLATAFORMA], com tom [TOM], sem hashtags irrelevantes e sem alegações enganosas.
+
+Dica: substitua os campos entre colchetes antes de usar.
